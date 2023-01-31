@@ -1,14 +1,14 @@
 --// Configurations
 
 getgenv().Settings = {
-    host = 4173033818,
-    prefix = ':',
+    host = Zulauf75333,
+    prefix = '!',
     fps = 3,
     admsg = 'free'
 }
 
 getgenv().Alts = {
-    3261144223,
+    4173033818,
 }
 
 --// Main code, made by remorse
