@@ -1,7 +1,7 @@
 --// Configurations
 
 getgenv().Settings = {
-    host = Zulauf75333,
+    host = 3258319550,
     prefix = '!',
     fps = 3,
     admsg = 'free'
